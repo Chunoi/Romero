@@ -1,0 +1,45 @@
+.Main{
+    display: flex;
+}
+
+.frm{
+    width: 35%;
+    padding-top: 53px;
+    display: flex;
+    justify-content: center;
+    
+}
+
+.table1{
+    width: 100%;
+
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+
+}
+
+.ints{
+    display: flex;
+    justify-content: center; 
+}
+table{
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 0px;
+    border: 2px black;
+    font-size: 18px;
+}
+
+h3{
+    display: flex;
+    justify-content: center;
+
+}
+
+body{
+    background-image: url("Quiz_IMG.jpg");
+    background-size: cover;
+}
